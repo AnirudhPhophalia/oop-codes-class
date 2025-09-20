@@ -24,6 +24,7 @@ int main()
 {
 	A ob1(5,6), ob2(7,8), ob3(4,3);
 	 ob1.output(), ob2.output(), ob3.output();
+	 cout<<endl;
 	 A::disp();
 	 
 }

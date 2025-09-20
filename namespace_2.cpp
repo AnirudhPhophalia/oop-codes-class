@@ -26,6 +26,8 @@ A::
 f();
 
 
+cout<<endl;
+
 using namespace B;
 f();
 }
